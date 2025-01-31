@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Harshal Patil!  
 
 ## 📄 Resume  
-[![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=flat-square&logo=google-drive&logoColor=white)](YOUR_RESUME_LINK)
+[![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1tOw9wo0uZDMIflZTOi0IQ-vt653CvaYP/view?usp=sharing)
 
 ## About Me  
 I'm a passionate **Web Developer** and **AI Enthusiast** with experience in **Frontend Development, Web Design, and AI/ML-based Chatbots**. I love building **accessible web applications** and **solving complex problems** using **JavaScript, Python, and AI/ML technologies**.  
@@ -9,26 +9,32 @@ I'm a passionate **Web Developer** and **AI Enthusiast** with experience in **Fr
 ## 🛠️ Tech Stack  
 
 ### **Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+</p>
 
 ### **Frameworks & Libraries**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
+</p>
 
 ### **Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
+</p>
 
 ## 💼 Experience  
 
