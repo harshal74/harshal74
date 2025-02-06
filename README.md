@@ -86,6 +86,6 @@ I'm a passionate **Web Developer** and **AI Enthusiast** with experience in **Fr
 ## 📫 Let's Connect!  
 
 - **Email:** [harshalnpatil185@gmail.com](mailto:harshalnpatil185@gmail.com)  
-- **LinkedIn:** [Harshal Patil](https://www.linkedin.com/in/harshalpatil)  
-- **GitHub:** [harshal74](https://www.linkedin.com/in/harshalpatil74/)  
+- **LinkedIn:** [Harshal Patil](https://www.linkedin.com/in/harshalpatil74/)  
+- **GitHub:** [harshal74](https://github.com/harshal74)  
 
